@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\HW51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|c:\\users\\mr. x\\source\\repos\\hw51\\hw51\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|solutionrelative:hw51\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|c:\\users\\mr. x\\source\\repos\\hw51\\hw51\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|solutionrelative:hw51\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|c:\\users\\mr. x\\source\\repos\\hw51\\hw51\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|solutionrelative:hw51\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|c:\\users\\mr. x\\source\\repos\\hw51\\hw51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|solutionrelative:hw51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|c:\\users\\mr. x\\source\\repos\\hw51\\hw51\\ordinary user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2AC6D-A1E6-40E5-9FE1-E6BC1F924F6E}|HW51\\HW51.csproj|solutionrelative:hw51\\ordinary user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\User.cs",
+              "RelativeDocumentMoniker": "HW51\\User.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\User.cs",
+              "RelativeToolTip": "HW51\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:08:25.27Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\UserService.cs",
+              "RelativeDocumentMoniker": "HW51\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\UserService.cs",
+              "RelativeToolTip": "HW51\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:19:13.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\manager.cs",
+              "RelativeDocumentMoniker": "HW51\\manager.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\manager.cs",
+              "RelativeToolTip": "HW51\\manager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:13:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ordinary user.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\ordinary user.cs",
+              "RelativeDocumentMoniker": "HW51\\ordinary user.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\ordinary user.cs",
+              "RelativeToolTip": "HW51\\ordinary user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:08:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\Program.cs",
+              "RelativeDocumentMoniker": "HW51\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW51\\HW51\\Program.cs",
+              "RelativeToolTip": "HW51\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAKYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:51:31.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

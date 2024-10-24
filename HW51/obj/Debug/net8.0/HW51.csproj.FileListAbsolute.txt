@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW51\HW51\bin\Debug\net8.0\HW51.exe
+C:\Users\Mr. X\source\repos\HW51\HW51\bin\Debug\net8.0\HW51.deps.json
+C:\Users\Mr. X\source\repos\HW51\HW51\bin\Debug\net8.0\HW51.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW51\HW51\bin\Debug\net8.0\HW51.dll
+C:\Users\Mr. X\source\repos\HW51\HW51\bin\Debug\net8.0\HW51.pdb
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.dll
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\refint\HW51.dll
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.pdb
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\HW51.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW51\HW51\obj\Debug\net8.0\ref\HW51.dll
